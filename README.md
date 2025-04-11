@@ -21,12 +21,7 @@ I am a passionate **Data Scientist** with expertise in data analysis, predictive
 
 ---
 
-## 💼 Professional Experience  
-
-### **Graduate Engineering Trainee**  
-*Sandvik India Pvt Ltd* | *11/2023 – Present*  
-- Developed **interactive Power BI dashboards** for strategic decision-making.  
-- Analyzed **large datasets** to identify trends and opportunities.  
+## 💼 Professional Experience   
 
 ### **Diploma Line Engineer Trainee**  
 *Tata Motors* | *11/2020 – 07/2021*  
